@@ -12,7 +12,8 @@
       content: "";
       position: absolute;
       inset: 0;
-      background-color: white;
+      top: 50%;
+      background: linear-gradient(180deg, transparent 0%, #020617 100%);
     }
   }
 }
